@@ -1,0 +1,15 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.Cumealcopy" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+    </style>
+
+    <style name="white">color/white</style>
+    <style name="black">color/black</style>
+    <style name="splashbg">color/splashbg</style>
+    <style name="homescreenbg">color/homescreenbg</style>
+
+
+    <style name="Theme.Cumealcopy" parent="Base.Theme.Cumealcopy" />
+</resources>

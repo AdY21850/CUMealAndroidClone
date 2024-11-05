@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "308289469684",
+    "project_id": "cumealcopy",
+    "storage_bucket": "cumealcopy.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:308289469684:android:4bdcff4e267b835e6a32a1",
+        "android_client_info": {
+          "package_name": "com.example.cumealcopy"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPgtNfI0lEe5bIAk9h5hfy71sxETT_uvo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
